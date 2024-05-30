@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="af06a953-67e6-4f34-a0d1-7b4371a721dc" name="40901">
+        <fileTransfer rootFolder="/home/qjh" accessType="SFTP" host="125.223.116.207" port="4090" sshConfigId="805aafe9-872f-4df1-9a0e-355ee78ab31a" sshConfig="40901" />
+      </webServer>
+    </option>
+  </component>
+</project>
